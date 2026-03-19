@@ -6,7 +6,8 @@ To develop a convolutional deep neural network (CNN) for image classification an
 ##   PROBLEM STATEMENT AND DATASET
 The problem is to design and develop a Convolutional Deep Neural Network (CNN) that can automatically classify grayscale images into predefined categories. The model must learn important spatial features such as edges, textures, and shapes from image data and accurately predict the correct class label.
 <img width="930" height="202" alt="image" src="https://github.com/user-attachments/assets/567246b8-1eac-484d-901f-eb11089e9099" />
-
+## Theory
+A Convolutional Neural Network (CNN) is used for image classification by automatically learning features like edges and textures. It uses convolution, pooling, and fully connected layers to process images. The model is trained using backpropagation to correctly classify grayscale images into categories.
 ## Neural Network Model
 <img width="907" height="639" alt="image" src="https://github.com/user-attachments/assets/eab62422-3266-45db-a71c-ca39f4313731" />
 
