@@ -9,7 +9,7 @@ The problem is to design and develop a Convolutional Deep Neural Network (CNN) t
 ## Theory
 A Convolutional Neural Network (CNN) is used for image classification by automatically learning features like edges and textures. It uses convolution, pooling, and fully connected layers to process images. The model is trained using backpropagation to correctly classify grayscale images into categories.
 ## Neural Network Model
-<img width="907" height="639" alt="image" src="https://github.com/user-attachments/assets/eab62422-3266-45db-a71c-ca39f4313731" />
+<img width="1052" height="512" alt="image" src="https://github.com/user-attachments/assets/7cfe6581-5805-4bdb-9d35-da0d338c5477" />
 
 ## DESIGN STEPS
 ### STEP 1: 
